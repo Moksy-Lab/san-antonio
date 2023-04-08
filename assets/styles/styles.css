@@ -1,6 +1,6 @@
 :root {
-    --brand-color: #1E73BE;
-    --light-brand-color: #EF57F2;
+    --brand-color: #4A4CC7;
+    --light-brand-color: #FFC72C;
     --text-color:  #000000;
     --light-text-color: #7C7C7C;
     --alert-color:  #EDED00 ;
@@ -10,11 +10,11 @@
     --main-background-color : #f8f9fa;
     --light-background-color : #fbfbfb;
     --default-font : Roboto, sans-serif;
-    --primary-font : Roboto Condensed, sans-serif;
+    --primary-font : Schibsted Grotesk, sans-serif;
     --secondary-font : Roboto, sans-serif;
     --default-font-size: 16px;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
 /* Typography Starts here */
 *,
 html,
