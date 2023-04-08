@@ -1,0 +1,156 @@
+:root {
+    --brand-color: #1E73BE;
+    --light-brand-color: #EF57F2;
+    --text-color:  #000000;
+    --light-text-color: #7C7C7C;
+    --alert-color:  #EDED00 ;
+    --success-color: #67E500;
+    --warning-color: #2539EA;
+    --error-color: #EA0000;
+    --main-background-color : #f8f9fa;
+    --light-background-color : #fbfbfb;
+    --default-font : Roboto, sans-serif;
+    --primary-font : Roboto Condensed, sans-serif;
+    --secondary-font : Roboto, sans-serif;
+    --default-font-size: 16px;
+}
+
+/* Typography Starts here */
+*,
+html,
+body {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: var(--primary-font);
+}
+
+section{
+    border-bottom: none;
+    margin-bottom: 25px;
+}
+
+footer #footer{
+    margin-bottom: 0px;
+}
+
+a {   
+    color: var(--text-color);
+}
+
+a:hover {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+h1 {
+    font-family: var(--primary-font);
+    color: var(--brand-color);
+    font-size: 4rem;
+}
+h2 {
+    font-family: var(--primary-font);
+    color: var(--brand-color);
+    font-size: 2.8rem;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 0.875rem;
+}
+
+h6 {
+    font-size: 0.813rem;
+    color: var(--text-color);
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.emphasis {
+    font-family: var(--brand-color);
+    font-style: italic;
+    color: var(--main-brand-color);
+}
+
+.constrain-width {
+    max-width: 45rem;
+    margin: 0 auto;
+}
+
+.pill-btn {
+    border-radius: 499rem;
+}
+
+.rounded-corners {
+    border-radius: .3rem;
+}
+
+.alt-background {
+    background: var(--main-background-color);
+}
+
+.btn-primary,
+.btn-outline-primary,
+.btn-secondary,
+.btn-outline-secondary,
+.btn-white,
+.btn-outline-white,
+.btn-success,
+.btn-outline-success,
+.btn-info,
+.btn-outline-info,
+.btn-warning,
+.btn-outline-warning,
+.btn-danger,
+.btn-outline-danger {
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: .3rem;
+}
+
+.btn-outline-primary,
+.btn-outline-secondary,
+.btn-outline-white,
+.btn-outline-success,
+.btn-outline-info,
+.btn-outline-warning,
+.btn-outline-danger {
+    border-width: .15rem;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    box-shadow: none;
+}
+
+
+.lead {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--text-color)
+}
+
+@media(max-width: 767px) {
+    .lead {
+        font-size: 1.2rem      
+    }
+  }
+
+/* Typography Ends here */  
