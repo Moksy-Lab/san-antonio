@@ -215,3 +215,32 @@ p {
     }
 
 /* #anna(h38209a5f778ff255) #css ends  */
+
+/* #satar(b2186d92f11e4fb9) #css starts  */
+.serviceb2186d92f11e4fb9 .Text{
+    font-weight: bold;
+    margin-top: 11px;
+    margin-left: 10px
+}
+.service{
+    margin-left: -80px;
+}
+@media (min-width: 500px) {
+.serviceb2186d92f11e4fb9 .row {
+            margin-left: 140px
+        }
+.serviceb2186d92f11e4fb9 .col-lg-3 {
+            margin-top: 14px
+        }
+    }
+    @media (min-width: 768px) {
+.serviceb2186d92f11e4fb9 .row {
+            justify-content: center
+        }
+    }
+    @media (max-width: 767px) {
+.serviceb2186d92f11e4fb9 .row {
+            margin-left: 150px
+        }
+}
+/* #satar(b2186d92f11e4fb9) #css ends  */
