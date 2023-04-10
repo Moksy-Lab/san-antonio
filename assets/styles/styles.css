@@ -244,3 +244,63 @@ p {
         }
 }
 /* #satar(b2186d92f11e4fb9) #css ends  */
+
+    /* #sagi(a8838571d54453e2) #css starts  */
+    .sliders0af4ba91ba85fcce .list-item {
+        margin-left: 30px;
+     }
+    .sliders0af4ba91ba85fcce .btnCaro{
+        background-color: #F6F6EE;
+        border:none;
+        border-radius:20px;
+        padding: 10px;
+    }
+    .sliders0af4ba91ba85fcce .btnCaro:hover, .btnCaro:focus{
+        background-color: #FFC72C;
+    }
+    .sliders0af4ba91ba85fcce .heading3{
+        font-size: 1.875rem;
+    font-weight: bold;
+    }
+    .sliders0af4ba91ba85fcce .card-product .bottom-wrap {
+        padding-top: 5px;
+        padding-bottom: 15px;
+        }
+        .sliders0af4ba91ba85fcce .price-wrap .badge{
+        font-size: 11px;
+    }
+    .sliders0af4ba91ba85fcce li::marker{
+            color: #EFC537;
+        }
+        .sliders0af4ba91ba85fcce .price-new {
+            font-weight: bold;
+            color: #4A4CC7
+        }
+    @media only screen and (max-width: 944px) and (max-height: 493px)  {
+        .sliders0af4ba91ba85fcce .list-item {
+       margin-left: -15px;
+    }
+    .sliders0af4ba91ba85fcce .label-rating{
+        margin-top: 5px;
+       }
+    }
+    @media only screen and (min-width: 944px) and (max-height: 493px) {
+        .sliders0af4ba91ba85fcce .list-item {
+      margin-left: 25px;
+    }
+    }
+    .sliders0af4ba91ba85fcce .label-rating{
+        display: inline-block;
+       
+    }
+    .sliders0af4ba91ba85fcce .rating-wrap{
+        margin-top: 50px;
+       }
+       .sliders0af4ba91ba85fcce .label-rating{
+        font-weight: bold;
+        margin-right: 15px;
+       }
+       .sliders0af4ba91ba85fcce .bg-gradient{
+        background-color: #FFC72C;
+       }
+        /* #sagi(a8838571d54453e2) #css ends  */
