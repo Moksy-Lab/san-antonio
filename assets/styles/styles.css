@@ -177,3 +177,41 @@ p {
     border-radius: 10px
 }
 /* #hanu(e871d461930b46f7) #css ends */
+
+/* #anna(h38209a5f778ff255) #css starts  */
+.abouth38209a5f778ff255 .jumbotron{
+    background-color: #F6F6EE;
+    border-radius: 13px
+}
+.abouth38209a5f778ff255 .DescriptionHeading {
+        font-size: 40px;
+        color: black;
+        margin-top: 50px
+    }
+
+    .abouth38209a5f778ff255 .DescriptionPara {
+        font-size: 18px
+    }
+    
+    .abouth38209a5f778ff255 .descriptionImage img{
+        height: 400px;
+        width: 500px
+    }
+    .abouth38209a5f778ff255 .searchBtn{
+        background-color:#4A4CC7;
+        border-radius: 10px;
+        color: white;
+        padding-right: 30px;
+        padding-left: 30px;
+        font-weight: bold
+    }
+    .abouth38209a5f778ff255 .teacher{
+        text-decoration: underline;
+        text-decoration-thickness: 3px
+    }
+    .abouth38209a5f778ff255 .teacher:hover{
+        text-decoration: underline;
+        text-decoration-thickness: 3px
+    }
+
+/* #anna(h38209a5f778ff255) #css ends  */
