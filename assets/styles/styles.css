@@ -154,3 +154,26 @@ p {
   }
 
 /* Typography Ends here */  
+
+/* #hanu(e871d461930b46f7) #css starts */
+.headere871d461930b46f7 .navbar-light{
+    background-color: white
+}
+.headere871d461930b46f7 .letter{
+    color: #FFC72C
+}
+.headere871d461930b46f7 .navbar-brand{
+    font-weight: bolder;
+    margin-right: 2.5rem
+}
+.headere871d461930b46f7 .nav-item{
+    font-weight: bold
+}
+.headere871d461930b46f7 .navbar-light .navbar-nav .nav-link:hover {
+    color: #4A4CC7
+}
+.headere871d461930b46f7 .btnregister{
+    background-color: #FFC72C;
+    border-radius: 10px
+}
+/* #hanu(e871d461930b46f7) #css ends */
