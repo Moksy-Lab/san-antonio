@@ -387,3 +387,29 @@ p {
     top: 0
 }
 /* #sanford(s6f017268c2c78eba) #css ends  */
+
+    /* #basu(d12294b36d7b134b) #css starts  */
+    .bannerd12294b36d7b134b .button {
+        background-color: #4A4CC7;
+        color: rgb(255, 255, 255);
+        margin-top: 20px
+    }
+
+    .bannerd12294b36d7b134b .button:hover {
+        color: #FFC72C
+    }
+    .bannerd12294b36d7b134b .background{
+        padding: 50px
+    }
+    .bannerd12294b36d7b134b .banner-container{
+        background-color: #E8EDF3
+    }
+    .bannerd12294b36d7b134b .backgroundIMG{
+        background-image: url(https://i.ibb.co/VtwvzPC/1.png);
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 122px
+    }
+    /* #basu(d12294b36d7b134b) #css ends  */
