@@ -304,3 +304,86 @@ p {
         background-color: #FFC72C;
        }
         /* #sagi(a8838571d54453e2) #css ends  */
+
+
+/* #agun(e50d5193e4b9f737) #css starts  */
+.aboute50d5193e4b9f737 h2{
+    font-size: 40px;
+    color: #000000;
+    font-weight: bold;
+    line-height: 1.5
+}
+.aboute50d5193e4b9f737 li {
+            list-style: none;
+            padding: 10px 30px;
+            background-image: url("https://i.ibb.co/5Tg0P3R/chk.png");
+            background-repeat: no-repeat;
+            background-position: left center;
+            background-size: 20px         
+        }
+        .aboute50d5193e4b9f737 .margin{
+    font-weight: bold
+}
+.aboute50d5193e4b9f737 .searchBtn{
+        background-color:#4A4CC7;
+        border-radius: 10px;
+        color: white;
+        padding-right: 30px;
+        padding-left: 30px;
+        font-weight: bold
+    }
+@media (max-width: 767px) {
+    .aboute50d5193e4b9f737 .aboutIMG{
+        margin-top: 15px;
+}
+}
+/* #agun(e50d5193e4b9f737) #css ends  */
+
+/* #sanford(s6f017268c2c78eba) #css starts  */
+.sliders6f017268c2c78eba .carousel-indicators {
+    right: auto;
+    bottom: auto;
+    top: 50%;
+    transform: rotate(90deg);
+    margin-left: 0;
+    margin-right: 0
+}
+.sliders6f017268c2c78eba .carousel-indicators li {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    color: #009F85;
+    
+}
+.sliders6f017268c2c78eba .carousel-indicators li.active {
+    background-color: #000
+}
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.carousel-item-next,
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.active.carousel-item-right {
+    transform: translate3d(0, 100%, 0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+    top: 0
+}
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.carousel-item-prev, 
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.active.carousel-item-left {
+    transform: translate3d(0, -100%, 0);
+    -webkit-transform: translate3d(0, -100%, 0);
+    -moz-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    -o-transform: translate3d(0, -100%, 0);
+    top: 0
+}
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.next.carousel-item-left, 
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.carousel-item-prev.carousel-item-right, 
+.sliders6f017268c2c78eba .carousel-inner > .carousel-item.active {
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    top: 0
+}
+/* #sanford(s6f017268c2c78eba) #css ends  */
