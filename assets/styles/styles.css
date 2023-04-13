@@ -402,6 +402,7 @@ p {
         padding: 50px
     }
     .bannerd12294b36d7b134b .banner-container{
+        overflow: hidden;
         background-color: #E8EDF3
     }
     .bannerd12294b36d7b134b .backgroundIMG{
@@ -416,6 +417,7 @@ p {
 
         /* #funna(bb40107f5c885251) #css starts */
         .footerbbb40107f5c885251 {
+            overflow: hidden;
             min-height: 40vh
         }
     
